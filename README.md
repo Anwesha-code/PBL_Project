@@ -6,8 +6,8 @@ Conventional carbon footprint estimation methods are inaccurate and fail to capt
 
 <h1>RESEARCH OBJECTIVES</h1>  
 
-•	To preprocess, scale, and engineer features from multi sensor data centre datasets for time series forecasting.
-•	To design and implement a stacked, bidirectional Long Short Term Memory recurrent neural network capable of capturing complex temporal dependencies when predicting carbon emissions.
-•	Implement automated hyperparameter optimization to eliminate manual human intervention.
-•	To evaluate the optimised model's performance against baseline approaches and analyse convergence behaviour, generalisation ability, and prediction accuracy.
-•	To interpret results, discuss implications for sustainable data centre operations, and outline future directions for model enhancement and deployment.
+•	To preprocess, scale, and engineer features from multi sensor data centre datasets for time series forecasting.</br>
+•	To design and implement a stacked, bidirectional Long Short Term Memory recurrent neural network capable of capturing complex temporal dependencies when predicting carbon emissions.</br>
+•	Implement automated hyperparameter optimization to eliminate manual human intervention.</br>
+•	To evaluate the optimised model's performance against baseline approaches and analyse convergence behaviour, generalisation ability, and prediction accuracy.</br>
+•	To interpret results, discuss implications for sustainable data centre operations, and outline future directions for model enhancement and deployment.</br>
